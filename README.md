@@ -1,2 +1,2 @@
 # algorithm
-practicing algorithm basic
+practicing algorithm basic :)
